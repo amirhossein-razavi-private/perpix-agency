@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "title": "PerPix — Digital Products That Make Impact",
+    "description": "PerPix is a senior-only digital product studio. No templates, no junior teams — just custom-built products with an AI-first approach and a proven delivery record."
+  },
+  "common": {
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "nav": {
+    "brandSuffix": "Pix",
+    "home": "Home",
+    "services": "Services",
+    "caseStudies": "Case Studies",
+    "process": "Process",
+    "about": "About",
+    "contact": "Contact",
+    "cta": "Start a Project",
+    "servicesMenu": {
+      "consultation": "Free initial consultation",
+      "viewAll": "View all services",
+      "items": [
+        {
+          "icon": "design",
+          "title": "Product Design",
+          "description": "UX Research, UI Design, Design Systems"
+        },
+        {
+          "icon": "code",
+          "title": "Software Development",
+          "description": "Full Stack, Mobile, Web Applications"
+        },
+        {
+          "icon": "ai",
+          "title": "AI Integration",
+          "description": "LLM Integration, Intelligent Automation"
+        },
+        {
+          "icon": "growth",
+          "title": "Growth Strategy",
+          "description": "Data Analysis, Conversion Optimization"
+        }
+      ]
+    },
+    "caseStudiesMenu": {
+      "viewAll": "View all projects",
+      "items": [
+        {
+          "icon": "bank",
+          "title": "GulfFinance — Banking Platform",
+          "meta": "FinTech · RTL · 14 weeks",
+          "metric": "+240%"
+        },
+        {
+          "icon": "health",
+          "title": "HealthBridge — Medical App",
+          "meta": "HealthTech · Mobile · 10 weeks",
+          "metric": "+340%"
+        },
+        {
+          "icon": "saas",
+          "title": "ScaleUp — SaaS Platform",
+          "meta": "SaaS · Web · 12 weeks",
+          "metric": "50K"
+        }
+      ]
+    }
+  },
+  "hero": {
+    "status": "System Online — Building Products",
+    "statusMetric": "120+ Deployed",
+    "titleLead": "Digital Products",
+    "titleHighlight": "That Make Impact.",
+    "subtitle": "No templates. No junior teams. Just senior experts, an AI-first approach, and a proven delivery record — assembled with precision.",
+    "primaryCta": "View Projects",
+    "secondaryCta": "Free Consultation",
+    "trust": {
+      "nps": "NPS +87",
+      "npsLabel": "from clients",
+      "onTimeValue": "100%",
+      "onTimeLabel": "On-time delivery",
+      "yearsValue": "8+ Years",
+      "yearsLabel": "Senior team expertise"
+    },
+    "visual": {
+      "url": "perpix.io/dashboard",
+      "kpis": [
+        { "value": "120+", "label": "Projects" },
+        { "value": "98%", "label": "Retention" },
+        { "value": "+87", "label": "NPS" }
+      ],
+      "modules": [
+        { "label": "Design System", "value": "95%", "width": "95%" },
+        { "label": "Backend API", "value": "88%", "width": "88%" },
+        { "label": "AI Pipeline", "value": "76%", "width": "76%" }
+      ],
+      "aiPipeline": "AI Pipeline",
+      "aiStatus": "Active · Building",
+      "growthValue": "+240%",
+      "growthLabel": "User Growth",
+      "onTimeTitle": "On-Time",
+      "onTimeSub": "All 120 projects",
+      "stackLabel": "Stack",
+      "teamTitle": "Senior Team",
+      "compiling": "Compiling..."
+    }
+  },
+  "stats": {
+    "items": [
+      {
+        "value": "120",
+        "suffix": "+",
+        "label": "Projects Delivered",
+        "note": "100% on-time rate",
+        "tone": "success",
+        "icon": "trend"
+      },
+      {
+        "value": "98",
+        "suffix": "%",
+        "label": "Client Retention",
+        "note": "Repeat partnerships",
+        "tone": "success",
+        "icon": "trend"
+      },
+      {
+        "value": "8",
+        "suffix": "+",
+        "label": "Years Senior Expertise",
+        "note": "Senior-only team",
+        "tone": "primary",
+        "icon": "star"
+      },
+      {
+        "value": "40",
+        "suffix": "+",
+        "label": "Global Markets",
+        "note": "LTR & RTL ready",
+        "tone": "primary",
+        "icon": "globe"
+      }
+    ]
+  },
+  "impact": {
+    "label": "Our Philosophy",
+    "titleLead": "We don't sell templates.",
+    "titleHighlight": "We build products.",
+    "subtitle": "Every line of code, every pixel, every design decision — built from scratch, for your business.",
+    "tags": [
+      { "icon": "gem", "label": "Superior Quality" },
+      { "icon": "ban", "label": "No Templates" },
+      { "icon": "ai", "label": "AI-First Approach" },
+      { "icon": "chip", "label": "Modern Technology" },
+      { "icon": "team", "label": "Senior Team" }
+    ]
+  },
+  "differentiators": {
+    "label": "Why PerPix",
+    "titleLead": "Our Core",
+    "titleHighlight": "Differentiators",
+    "subtitle": "Four pillars that make working with us a fundamentally different experience.",
+    "items": [
+      {
+        "icon": "gem",
+        "tag": "Superior Quality",
+        "title": "100% Custom Build",
+        "description": "Every project is designed and developed from scratch. No templates, no shortcuts, no copies — just a product built precisely for your business.",
+        "stats": [
+          { "value": "120+", "label": "Unique projects" },
+          { "value": "0", "label": "Repeated templates" }
+        ]
+      },
+      {
+        "icon": "ai",
+        "tag": "AI-First Approach",
+        "title": "AI-First Methodology",
+        "description": "From research to final delivery, AI is integrated at every step of our process to multiply speed, quality, and precision.",
+        "stats": [
+          { "value": "-42%", "label": "Faster delivery" },
+          { "value": "3x", "label": "Higher speed" }
+        ]
+      },
+      {
+        "icon": "team",
+        "tag": "Senior-Only Team",
+        "title": "No Junior Assignments",
+        "description": "Every PerPix team member has 8+ years of hands-on experience. You get seasoned judgment, not a learning curve from a junior team.",
+        "stats": [
+          { "value": "8+", "label": "Min. years experience" },
+          { "value": "98%", "label": "Client retention" }
+        ]
+      },
+      {
+        "icon": "chip",
+        "tag": "Modern Technologies",
+        "title": "Today's Tech Stack",
+        "description": "React, Next.js, TypeScript, Node — we work with tools that are maintainable, scalable, and future-ready.",
+        "stats": [
+          { "value": "99.2%", "label": "Avg. uptime SLA" },
+          { "value": "40+", "label": "Global markets" }
+        ]
+      }
+    ]
+  },
+  "process": {
+    "label": "Process",
+    "titleLead": "From Idea to",
+    "titleHighlight": "Launch",
+    "subtitle": "Four structured phases for delivering every project on time, within budget, and beyond expectations.",
+    "steps": [
+      {
+        "icon": "search",
+        "number": "01",
+        "title": "Research & Strategy",
+        "description": "Deep market research, competitive analysis, and precise business objectives definition.",
+        "duration": "1–2 weeks"
+      },
+      {
+        "icon": "design",
+        "number": "02",
+        "title": "UI/UX Design",
+        "description": "Wireframes, high-fidelity UI with exceptional usability and scalability.",
+        "duration": "2–4 weeks"
+      },
+      {
+        "icon": "code",
+        "number": "03",
+        "title": "Development",
+        "description": "Modern stack implementation, automated testing, and API integration.",
+        "duration": "4–10 weeks"
+      },
+      {
+        "icon": "rocket",
+        "number": "04",
+        "title": "Launch & Support",
+        "description": "Final deployment, comprehensive QA, and 30-day post-launch support.",
+        "duration": "1 week + 30 days"
+      }
+    ]
+  },
+  "stack": {
+    "label": "Tools & Technologies",
+    "titleLead": "Modern",
+    "titleHighlight": "Stack",
+    "items": [
+      { "icon": "react", "label": "React" },
+      { "icon": "node", "label": "Node.js" },
+      { "icon": "python", "label": "Python" },
+      { "icon": "aws", "label": "AWS" },
+      { "icon": "docker", "label": "Docker" },
+      { "icon": "github", "label": "GitHub" },
+      { "icon": "figma", "label": "Figma" },
+      { "icon": "database", "label": "PostgreSQL" },
+      { "icon": "next", "label": "Next.js" },
+      { "icon": "stripe", "label": "Stripe" }
+    ],
+    "badges": [
+      { "icon": "shield", "label": "ISO 27001" },
+      { "icon": "lock", "label": "GDPR Compliant" },
+      { "icon": "access", "label": "WCAG 2.1 AA" },
+      { "icon": "award", "label": "SOC 2 Type II" },
+      { "icon": "aws", "label": "AWS Partner" }
+    ]
+  },
+  "projects": {
+    "label": "Case Studies",
+    "titleLead": "Featured",
+    "titleHighlight": "Projects",
+    "viewAll": "View all projects",
+    "viewProject": "View Project",
+    "featured": {
+      "tags": ["FinTech", "RTL", "Mobile First"],
+      "title": "GulfFinance — Banking Platform",
+      "description": "Complete digital banking platform for the Middle East with full RTL support, biometric authentication, and financial dashboard.",
+      "metrics": [
+        { "value": "+240%", "label": "User Growth" },
+        { "value": "14", "unit": "weeks", "label": "Development Time" }
+      ]
+    },
+    "secondary": [
+      {
+        "tag": "HealthTech",
+        "title": "HealthBridge",
+        "description": "Medical app for patient records, doctor-patient communication, and telehealth services.",
+        "metric": "+340%",
+        "metricLabel": "Users"
+      },
+      {
+        "tag": "SaaS",
+        "title": "ScaleUp MENA",
+        "description": "SaaS platform for startup management and business operations in MENA region.",
+        "metric": "50K",
+        "metricLabel": "Active Users"
+      }
+    ]
+  },
+  "cta": {
+    "eyebrow": "Ready for collaboration",
+    "title": "Let's build your next product together.",
+    "subtitle": "First step is just one conversation. No commitment, no sales pitch — just honest discussion about your project.",
+    "primaryCta": "Start a Project",
+    "secondaryCta": "View Case Studies",
+    "footnote": "Free initial consultation · no contract required",
+    "stats": [
+      { "value": "120", "suffix": "+", "label": "Projects Completed" },
+      { "value": "98", "suffix": "%", "label": "Client Retention" },
+      { "value": "+87", "suffix": "", "label": "NPS Score" },
+      { "value": "8", "suffix": "+", "label": "Years Experience" }
+    ]
+  },
+  "footer": {
+    "brandSuffix": "Pix",
+    "tagline": "Premier digital product studio. From idea to launch — with a senior team, AI-first approach, and proven delivery.",
+    "columns": [
+      {
+        "title": "Company",
+        "links": ["About Us", "Senior Team", "Trust & Security", "Blog", "Careers"]
+      },
+      {
+        "title": "Services",
+        "links": ["Product Design", "Software Development", "AI Integration", "Growth Strategy", "RTL & International"]
+      }
+    ],
+    "contact": {
+      "title": "Contact",
+      "email": "hello@perpix.io",
+      "phone": "+1 (555) 000-0000",
+      "location": "Dubai · London · Tehran",
+      "hours": "24/7 Support"
+    },
+    "rights": "All rights reserved.",
+    "legal": ["Terms of Service", "Privacy Policy", "Contact"]
+  }
+}
