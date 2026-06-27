@@ -24,18 +24,18 @@ export function StackSection({ t }) {
         </div>
       </div>
 
-      <div className="relative overflow-hidden">
+      <div className="relative overflow-hidden" dir="ltr">
         <div className="marquee-track items-center">
           {[0, 1].map((dup) => (
-            <div key={dup} className="flex items-center gap-12 px-6" aria-hidden={dup === 1}>
+            <div key={dup} className="flex items-center gap-12 px-6 shrink-0" aria-hidden={dup === 1}>
               {t.items.map((item) => (
                 <StackItem key={`${dup}-${item.label}`} item={item} />
               ))}
             </div>
           ))}
         </div>
-        <div className="absolute inset-y-0 start-0 w-24 pointer-events-none bg-gradient-to-r rtl:bg-gradient-to-l from-gray-50 dark:from-[#0b0b12] to-transparent" />
-        <div className="absolute inset-y-0 end-0 w-24 pointer-events-none bg-gradient-to-l rtl:bg-gradient-to-r from-gray-50 dark:from-[#0b0b12] to-transparent" />
+        <div className="absolute inset-y-0 left-0 w-24 pointer-events-none bg-gradient-to-r from-gray-50 dark:from-[#0b0b12] to-transparent" />
+        <div className="absolute inset-y-0 right-0 w-24 pointer-events-none bg-gradient-to-l from-gray-50 dark:from-[#0b0b12] to-transparent" />
       </div>
 
       <div className="max-w-[1440px] mx-auto px-6 lg:px-14 mt-12">

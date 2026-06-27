@@ -13,11 +13,14 @@
   "nav": {
     "brandSuffix": "Pix",
     "home": "Home",
-    "services": "Services",
     "caseStudies": "Case Studies",
+    "trustUs": "Trust Us",
+    "services": "Services",
     "process": "Process",
-    "about": "About",
-    "contact": "Contact",
+    "whyPerpix": "Why PerPix",
+    "ourTeam": "Our Team",
+    "education": "Education",
+    "contact": "Contact Us",
     "cta": "Start a Project",
     "servicesMenu": {
       "consultation": "Free initial consultation",
@@ -310,6 +313,1029 @@
       { "value": "+87", "suffix": "", "label": "NPS Score" },
       { "value": "8", "suffix": "+", "label": "Years Experience" }
     ]
+  },
+  "trustUs": {
+    "metadata": {
+      "title": "Why Trust PerPix",
+      "description": "Discover why ambitious brands trust PerPix — senior-only teams, proven delivery, industry recognition, and measurable results."
+    },
+    "hero": {
+      "badge": "Trusted by 500+ Brands",
+      "titleLead": "Why Ambitious Brands",
+      "titleHighlight": "Trust PerPix",
+      "subtitle": "No juniors. No guesswork. Just a senior team with 8+ years of experience, a proven delivery record, and a commitment to outcomes that matter.",
+      "primaryCta": "Start a Project",
+      "secondaryCta": "Watch Video",
+      "stats": [
+        { "value": "120", "suffix": "+", "label": "Happy Clients", "icon": "team" },
+        { "value": "98", "suffix": "%", "label": "Retention Rate", "icon": "trend" },
+        { "value": "8", "suffix": "+", "label": "Years Experience", "icon": "medal" },
+        { "value": "40", "suffix": "+", "label": "Expert Team Members", "icon": "globe" }
+      ]
+    },
+    "seniorTeam": {
+      "label": "Our Experience",
+      "titleLead": "No Juniors.",
+      "titleHighlight": "No Guesswork.",
+      "subtitle": "Every PerPix team member has 8+ years of hands-on experience. You work directly with senior experts who've shipped products at scale — not a rotating cast of juniors learning on your dime.",
+      "points": [
+        {
+          "icon": "team",
+          "title": "Senior-Only Assignments",
+          "description": "Every project is staffed with seasoned professionals — no junior handoffs, no learning curves on your budget."
+        },
+        {
+          "icon": "shield",
+          "title": "Proven Delivery Record",
+          "description": "120+ projects delivered on time with a 98% client retention rate and NPS score of +87."
+        },
+        {
+          "icon": "gem",
+          "title": "Quality Without Compromise",
+          "description": "Custom-built from scratch — no templates, no shortcuts. Every pixel and line of code built for your business."
+        }
+      ],
+      "members": [
+        { "name": "Sarah Chen", "role": "Lead Product Designer", "skill": "UI/UX Design", "level": 95 },
+        { "name": "Marcus Webb", "role": "Senior Full-Stack Dev", "skill": "Engineering", "level": 92 },
+        { "name": "Elena Rodriguez", "role": "AI/ML Engineer", "skill": "AI Integration", "level": 88 },
+        { "name": "James Okonkwo", "role": "Growth Strategist", "skill": "Strategy", "level": 90 }
+      ]
+    },
+    "partners": {
+      "label": "Industry Recognition",
+      "titleLead": "Trusted by",
+      "titleHighlight": "Industry Leaders",
+      "subtitle": "We've partnered with forward-thinking companies across FinTech, HealthTech, SaaS, and e-commerce.",
+      "logos": ["Shopify", "Webflow", "Stripe", "AWS", "Figma", "Vercel"],
+      "metrics": [
+        {
+          "icon": "trend",
+          "value": "25+",
+          "title": "Average ROI Increase",
+          "description": "Clients see measurable returns within the first 6 months of launch."
+        },
+        {
+          "icon": "rocket",
+          "value": "50+",
+          "title": "Projects Completed",
+          "description": "Across 40+ global markets with full LTR and RTL support."
+        },
+        {
+          "icon": "star",
+          "value": "4.8/5",
+          "title": "Client Satisfaction",
+          "description": "Consistently rated among the top digital product studios."
+        }
+      ]
+    },
+    "testimonials": {
+      "label": "Client Stories",
+      "titleLead": "Words From",
+      "titleHighlight": "Our Clients",
+      "subtitle": "Real feedback from real partners who trusted us with their most important products.",
+      "items": [
+        {
+          "quote": "PerPix delivered our banking platform in 14 weeks — on time, on budget, and beyond our expectations. The senior team made all the difference.",
+          "name": "Ahmed Al-Rashid",
+          "role": "CTO, GulfFinance",
+          "rating": 5
+        },
+        {
+          "quote": "Finally, an agency that doesn't assign juniors to your project. Every interaction was with someone who actually knew what they were doing.",
+          "name": "Lisa Park",
+          "role": "VP Product, HealthBridge",
+          "rating": 5
+        },
+        {
+          "quote": "The AI-first approach cut our development timeline by 40%. PerPix isn't just a vendor — they're a true product partner.",
+          "name": "David Müller",
+          "role": "Founder, ScaleUp MENA",
+          "rating": 5
+        },
+        {
+          "quote": "From research to launch, the process was transparent and structured. We always knew exactly where the project stood.",
+          "name": "Fatima Hassan",
+          "role": "Head of Digital, RetailCo",
+          "rating": 5
+        },
+        {
+          "quote": "Our RTL platform launched flawlessly across the Middle East. PerPix understood the cultural and technical nuances perfectly.",
+          "name": "Omar Khalil",
+          "role": "CEO, MENA Commerce",
+          "rating": 5
+        },
+        {
+          "quote": "98% retention isn't a marketing claim — we came back for three more projects. That's the trust PerPix earns.",
+          "name": "Rachel Torres",
+          "role": "COO, FinStack",
+          "rating": 5
+        }
+      ]
+    },
+    "delivery": {
+      "label": "Our Commitment",
+      "titleLead": "We",
+      "titleHighlight": "Always Deliver",
+      "subtitle": "Four pillars of delivery excellence that ensure every project ships on time and exceeds expectations.",
+      "items": [
+        {
+          "icon": "clock",
+          "title": "On-Time Delivery",
+          "description": "100% on-time delivery rate across 120+ projects with structured milestone tracking.",
+          "progress": 100
+        },
+        {
+          "icon": "gem",
+          "title": "Quality Assurance",
+          "description": "Automated testing, code review, and comprehensive QA before every launch.",
+          "progress": 98
+        },
+        {
+          "icon": "shield",
+          "title": "Security First",
+          "description": "ISO 27001, GDPR compliant, SOC 2 Type II — enterprise-grade security built in.",
+          "progress": 100
+        },
+        {
+          "icon": "growth",
+          "title": "Post-Launch Support",
+          "description": "30-day post-launch support and ongoing maintenance packages available.",
+          "progress": 95
+        }
+      ],
+      "dashboard": {
+        "title": "Project Performance",
+        "subtitle": "Real-time delivery tracking",
+        "kpis": [
+          { "value": "98%", "label": "On-Time" },
+          { "value": "+87", "label": "NPS" },
+          { "value": "120+", "label": "Projects" }
+        ],
+        "milestones": [
+          { "label": "Research & Strategy", "done": true },
+          { "label": "UI/UX Design", "done": true },
+          { "label": "Development", "done": true },
+          { "label": "QA & Launch", "done": false }
+        ]
+      }
+    },
+    "values": {
+      "label": "Core Values",
+      "titleLead": "What We",
+      "titleHighlight": "Stand For",
+      "subtitle": "Four principles that guide every decision, every project, and every client relationship.",
+      "readMore": "Read More",
+      "items": [
+        {
+          "icon": "eye",
+          "title": "Radical Transparency",
+          "description": "No hidden costs, no surprise scope changes. You see everything — timelines, progress, and blockers — in real time."
+        },
+        {
+          "icon": "target",
+          "title": "Result-Oriented",
+          "description": "We measure success by your business outcomes, not hours billed. Every decision is tied to measurable impact."
+        },
+        {
+          "icon": "gem",
+          "title": "Craft Excellence",
+          "description": "We don't ship good enough. Every product we build is something we'd be proud to put our name on."
+        },
+        {
+          "icon": "handshake",
+          "title": "True Partnership",
+          "description": "We're not a vendor you manage — we're an extension of your team, invested in your long-term success."
+        }
+      ]
+    },
+    "metrics": {
+      "label": "By The Numbers",
+      "titleLead": "Numbers That",
+      "titleHighlight": "Don't Lie",
+      "subtitle": "Measurable impact across every dimension of our work.",
+      "items": [
+        {
+          "icon": "trend",
+          "value": "+340%",
+          "label": "Average User Growth",
+          "trend": "+12%",
+          "trendUp": true
+        },
+        {
+          "icon": "globe",
+          "value": "$200M+",
+          "label": "Client Revenue Generated",
+          "trend": "+28%",
+          "trendUp": true
+        },
+        {
+          "icon": "star",
+          "value": "4.8/5",
+          "label": "Average Client Rating",
+          "trend": "+0.3",
+          "trendUp": true
+        },
+        {
+          "icon": "clock",
+          "value": "100%",
+          "label": "On-Time Delivery Rate",
+          "trend": "0%",
+          "trendUp": true
+        },
+        {
+          "icon": "team",
+          "value": "40+",
+          "label": "Senior Experts",
+          "trend": "+5",
+          "trendUp": true
+        },
+        {
+          "icon": "rocket",
+          "value": "14 wks",
+          "label": "Avg. Time to Launch",
+          "trend": "-3 wks",
+          "trendUp": true
+        }
+      ],
+      "certificationsLabel": "Certifications & Awards",
+      "certifications": [
+        { "icon": "shield", "label": "ISO 27001" },
+        { "icon": "lock", "label": "GDPR" },
+        { "icon": "award", "label": "SOC 2" },
+        { "icon": "access", "label": "WCAG 2.1" },
+        { "icon": "aws", "label": "AWS Partner" },
+        { "icon": "medal", "label": "Top Agency 2025" }
+      ]
+    },
+    "cta": {
+      "title": "Ready to Work With a Team You Can Trust?",
+      "subtitle": "First step is just one conversation. No commitment, no sales pitch — just honest discussion about your project.",
+      "primaryCta": "Start a Project",
+      "secondaryCta": "Contact Sales",
+      "stats": [
+        { "value": "120", "suffix": "+", "label": "Projects Completed" },
+        { "value": "98", "suffix": "%", "label": "Client Retention" },
+        { "value": "8", "suffix": "+", "label": "Years Experience" },
+        { "value": "40", "suffix": "+", "label": "Expert Team" }
+      ]
+    }
+  },
+  "servicesPage": {
+    "metadata": {
+      "title": "Services",
+      "description": "End-to-end digital product services — product strategy, design, development, growth, and localization from a senior-only team."
+    },
+    "hero": {
+      "badge": "The Full-Cycle Product Studio",
+      "titleLead": "Everything Your Product",
+      "titleHighlight": "Needs to Succeed",
+      "subtitle": "From strategy and design to development and growth — one senior team, one seamless process, built to ship products that make impact.",
+      "primaryCta": "Request a Quote",
+      "secondaryCta": "See How We Help",
+      "trust": [
+        { "icon": "check", "label": "Zero hidden fees" },
+        { "icon": "check", "label": "100% IP ownership" },
+        { "icon": "check", "label": "Fixed project pricing" },
+        { "icon": "check", "label": "Cancel or pause anytime" }
+      ]
+    },
+    "filters": [
+      { "key": "all", "label": "All Services" },
+      { "key": "product", "label": "Product" },
+      { "key": "design", "label": "Design" },
+      { "key": "development", "label": "Development" },
+      { "key": "marketing", "label": "Marketing" }
+    ],
+    "core": {
+      "label": "What We Do",
+      "titleLead": "Our",
+      "titleHighlight": "Core Services",
+      "subtitle": "Eight specialized capabilities — each delivered by senior experts with a proven track record.",
+      "learnMore": "Learn more",
+      "items": [
+        {
+          "icon": "target",
+          "title": "Product Strategy",
+          "description": "Market research, competitive analysis, and product roadmaps that align with your business goals.",
+          "tags": ["User Research", "Market Analysis", "Roadmapping"],
+          "category": "product"
+        },
+        {
+          "icon": "search",
+          "title": "UX Research & Design",
+          "description": "Deep user research, wireframes, and prototypes that validate ideas before a single line of code.",
+          "tags": ["User Interviews", "Wireframing", "Prototyping"],
+          "category": "design"
+        },
+        {
+          "icon": "palette",
+          "title": "UI / Visual Design",
+          "description": "High-fidelity interfaces and design systems that are beautiful, accessible, and scalable.",
+          "tags": ["UI Design", "Design Systems", "Accessibility"],
+          "category": "design"
+        },
+        {
+          "icon": "code",
+          "title": "Frontend Development",
+          "description": "React, Next.js, and TypeScript implementations with exceptional performance and UX.",
+          "tags": ["React", "Next.js", "TypeScript"],
+          "category": "development"
+        },
+        {
+          "icon": "database",
+          "title": "Backend & API",
+          "description": "Scalable APIs, databases, and cloud infrastructure built for reliability and growth.",
+          "tags": ["Node.js", "PostgreSQL", "REST & GraphQL"],
+          "category": "development"
+        },
+        {
+          "icon": "mobile",
+          "title": "Mobile Development",
+          "description": "Native and cross-platform mobile apps with polished UX and offline-first architecture.",
+          "tags": ["iOS", "Android", "React Native"],
+          "category": "development"
+        },
+        {
+          "icon": "growth",
+          "title": "Growth & Analytics",
+          "description": "Data-driven growth strategies, conversion optimization, and analytics implementation.",
+          "tags": ["Analytics", "A/B Testing", "Conversion"],
+          "category": "marketing"
+        },
+        {
+          "icon": "globe",
+          "title": "RTL & Localization",
+          "description": "Full right-to-left support and internationalization for global market expansion.",
+          "tags": ["RTL", "i18n", "Global Markets"],
+          "category": "product"
+        }
+      ]
+    },
+    "flagship": {
+      "label": "Flagship",
+      "titleLead": "Our",
+      "titleHighlight": "Flagship Capability",
+      "subtitle": "End-to-end product delivery — from discovery to launch, with a dedicated senior team.",
+      "featured": {
+        "badge": "Most Popular",
+        "icon": "rocket",
+        "title": "Full-Product Delivery",
+        "description": "A complete product development engagement — strategy, design, engineering, and launch — managed by a single senior team with full accountability.",
+        "features": [
+          "Discovery & strategy workshops",
+          "UI/UX design & prototyping",
+          "Full-stack development & QA",
+          "Launch, support & iteration"
+        ],
+        "cta": "Get a Quote"
+      },
+      "stats": [
+        {
+          "icon": "clock",
+          "title": "Average Time to Market",
+          "value": "8–14 weeks",
+          "subtitle": "From kickoff to production launch"
+        },
+        {
+          "icon": "team",
+          "title": "Dedicated Team Composition",
+          "tags": ["Product Manager", "UI Designer", "Frontend Dev", "Backend Dev", "QA Engineer"],
+          "subtitle": "Senior-only, no junior handoffs"
+        },
+        {
+          "icon": "rocket",
+          "title": "Projects Delivered",
+          "value": "120+",
+          "subtitle": "Across 40+ global markets",
+          "link": "View all projects"
+        }
+      ]
+    },
+    "industries": {
+      "label": "Industries",
+      "titleLead": "We Speak",
+      "titleHighlight": "Your Industry",
+      "subtitle": "Deep domain expertise across six high-growth sectors — we understand your users, regulations, and competitive landscape.",
+      "items": [
+        {
+          "icon": "bank",
+          "title": "Fintech & Banking",
+          "description": "Digital banking, payment platforms, and financial dashboards with full compliance.",
+          "tags": ["FinTech", "Payments", "Compliance"]
+        },
+        {
+          "icon": "health",
+          "title": "Healthcare & Wellness",
+          "description": "Patient apps, telehealth platforms, and medical record systems.",
+          "tags": ["HealthTech", "Telehealth", "HIPAA"]
+        },
+        {
+          "icon": "store",
+          "title": "Retail & E-commerce",
+          "description": "Online stores, marketplaces, and omnichannel retail experiences.",
+          "tags": ["E-commerce", "Marketplace", "POS"]
+        },
+        {
+          "icon": "education",
+          "title": "EdTech & Learning",
+          "description": "Learning management systems, course platforms, and educational apps.",
+          "tags": ["LMS", "E-learning", "MOOC"]
+        },
+        {
+          "icon": "building",
+          "title": "Real Estate & PropTech",
+          "description": "Property platforms, virtual tours, and real estate management tools.",
+          "tags": ["PropTech", "Listings", "CRM"]
+        },
+        {
+          "icon": "saas",
+          "title": "SaaS & Enterprise",
+          "description": "B2B platforms, internal tools, and enterprise software at scale.",
+          "tags": ["SaaS", "B2B", "Enterprise"]
+        }
+      ]
+    },
+    "standards": {
+      "label": "Our Promise",
+      "titleLead": "Every Service,",
+      "titleHighlight": "Same Standard",
+      "subtitle": "Regardless of scope or size, every engagement gets the same senior team, process, and quality bar.",
+      "items": [
+        {
+          "icon": "clipboard",
+          "title": "Quality Assurance",
+          "description": "Automated testing, code review, and comprehensive QA before every release."
+        },
+        {
+          "icon": "eye",
+          "title": "Transparent Reporting",
+          "description": "Weekly progress updates, shared dashboards, and full visibility into every sprint."
+        },
+        {
+          "icon": "code-branch",
+          "title": "Agile Methodology",
+          "description": "Two-week sprints, regular demos, and iterative delivery that adapts to feedback."
+        },
+        {
+          "icon": "rocket",
+          "title": "Launch & Support",
+          "description": "Deployment, monitoring setup, and 30-day post-launch support included."
+        }
+      ]
+    },
+    "techStack": {
+      "label": "Technologies",
+      "titleLead": "Best-in-Class",
+      "titleHighlight": "Tech Stack",
+      "subtitle": "We work with modern, maintainable technologies chosen for performance, scalability, and long-term viability.",
+      "cta": "See All Technologies",
+      "items": [
+        { "icon": "react", "label": "React" },
+        { "icon": "next", "label": "Next.js" },
+        { "icon": "node", "label": "Node.js" },
+        { "icon": "python", "label": "Python" },
+        { "icon": "mobile", "label": "Flutter" },
+        { "icon": "mobile", "label": "Swift" },
+        { "icon": "aws", "label": "AWS" },
+        { "icon": "docker", "label": "Docker" }
+      ]
+    },
+    "cta": {
+      "titleLead": "Let's Turn Your Vision Into a",
+      "titleHighlight": "Premium Product",
+      "subtitle": "First step is just one conversation. No commitment, no sales pitch — just honest discussion about your project.",
+      "primaryCta": "Start a Project",
+      "secondaryCta": "Book a Discovery Call",
+      "stats": [
+        { "value": "8", "suffix": "+", "label": "Years Experience" },
+        { "value": "120", "suffix": "+", "label": "Projects Delivered" },
+        { "value": "24/7", "suffix": "", "label": "Support Team" },
+        { "value": "100", "suffix": "%", "label": "Client Satisfaction" }
+      ]
+    }
+  },
+  "processPage": {
+    "metadata": {
+      "title": "Our Process",
+      "description": "How PerPix works — a structured six-step process from discovery to launch, with full transparency and senior expertise at every stage."
+    },
+    "hero": {
+      "badge": "How We Work",
+      "titleLead": "How We Work,",
+      "titleHighlight": "From Hello to Launch",
+      "subtitle": "A proven, transparent process that takes your product from first conversation to production launch — with a senior team guiding every step.",
+      "primaryCta": "Explore Our Process",
+      "secondaryCta": "View Case Studies",
+      "trust": [
+        { "icon": "check", "label": "Holistic Focus" },
+        { "icon": "check", "label": "Full Transparency" },
+        { "icon": "check", "label": "Detailed Analysis" },
+        { "icon": "check", "label": "Client-Centric" }
+      ]
+    },
+    "steps": [
+      {
+        "number": "01",
+        "stepLabel": "Step 01",
+        "icon": "search",
+        "tone": "purple",
+        "title": "Discovery",
+        "description": "We start by deeply understanding your business, users, and market. Through workshops, interviews, and competitive analysis, we uncover the insights that shape every decision ahead.",
+        "tags": ["Business Analysis", "User Research", "Market Insights"],
+        "image": 1
+      },
+      {
+        "number": "02",
+        "stepLabel": "Step 02",
+        "icon": "target",
+        "tone": "orange",
+        "title": "Strategy & Planning",
+        "description": "With clarity from discovery, we define the product roadmap, set measurable KPIs, and create a detailed project plan with timelines, milestones, and risk mitigation.",
+        "tags": ["Project Roadmap", "KPI Definition", "Risk Evaluation"],
+        "image": 2
+      },
+      {
+        "number": "03",
+        "stepLabel": "Step 03",
+        "icon": "palette",
+        "tone": "purple",
+        "title": "Design & Prototyping",
+        "description": "Our designers craft wireframes, interactive prototypes, and high-fidelity UI — validated with real users before development begins.",
+        "tags": ["UI/UX Design", "Interactive Prototypes", "Visual Identity"],
+        "image": 3
+      },
+      {
+        "number": "04",
+        "stepLabel": "Step 04",
+        "icon": "code",
+        "tone": "green",
+        "title": "Development",
+        "description": "Senior engineers build your product in agile two-week sprints with clean, maintainable code, automated testing, and regular demos.",
+        "tags": ["Agile Sprints", "Quality Coding", "Stack Selection"],
+        "image": 4
+      },
+      {
+        "number": "05",
+        "stepLabel": "Step 05",
+        "icon": "clipboard",
+        "tone": "yellow",
+        "title": "Testing & QA",
+        "description": "Comprehensive testing across devices, browsers, and use cases. We catch bugs, validate usability, and ensure performance before launch.",
+        "tags": ["Usability Test", "Bug Tracking", "Performance Check"],
+        "image": 5
+      },
+      {
+        "number": "06",
+        "stepLabel": "Step 06",
+        "icon": "rocket",
+        "tone": "blue",
+        "title": "Delivery & Growth",
+        "description": "We deploy to production, set up monitoring, and provide 30-day post-launch support — plus ongoing optimization to drive growth.",
+        "tags": ["Deployment", "Support Plans", "Ongoing Support"],
+        "image": 6
+      }
+    ],
+    "values": {
+      "items": [
+        {
+          "icon": "design",
+          "tone": "purple",
+          "title": "Design-Driven Focus",
+          "description": "Every decision starts with the user. Design thinking guides our process from day one."
+        },
+        {
+          "icon": "eye",
+          "tone": "orange",
+          "title": "Client Transparency",
+          "description": "Weekly updates, shared dashboards, and open communication at every stage."
+        },
+        {
+          "icon": "target",
+          "tone": "green",
+          "title": "Results-Oriented",
+          "description": "We measure success by your business outcomes, not hours billed."
+        },
+        {
+          "icon": "code",
+          "tone": "blue",
+          "title": "Full-Stack Expertise",
+          "description": "Design, frontend, backend, and DevOps — one senior team, end to end."
+        }
+      ]
+    },
+    "cta": {
+      "badge": "Ready to Start?",
+      "titleLead": "Ready to start your",
+      "titleHighlight": "journey?",
+      "subtitle": "First step is just one conversation. No commitment, no sales pitch — just honest discussion about your project.",
+      "primaryCta": "Start a Project",
+      "secondaryCta": "Book a Discovery Call",
+      "stats": [
+        { "value": "6", "suffix": "+", "label": "Active Clients" },
+        { "value": "100", "suffix": "%", "label": "Satisfaction" },
+        { "value": "48", "suffix": "hr", "label": "Response Time" },
+        { "value": "0", "suffix": "", "label": "Projects Unfinished" }
+      ]
+    }
+  },
+  "whyPerpixPage": {
+    "metadata": {
+      "title": "Why PerPix",
+      "description": "Why ambitious brands choose PerPix — senior-only teams, engineered outcomes, and a fundamentally different approach to digital product development."
+    },
+    "hero": {
+      "badge": "Why PerPix",
+      "titleLead": "We don't just build.",
+      "titleHighlight": "We engineer outcomes.",
+      "subtitle": "PerPix isn't a typical agency. We're a senior-only product studio that combines strategy, design, and engineering to deliver measurable business results — not just deliverables.",
+      "primaryCta": "See Our Advantages",
+      "secondaryCta": "View Case Studies",
+      "trust": [
+        { "icon": "check", "label": "100% Client Satisfaction" },
+        { "icon": "check", "label": "On-time Project Delivery" },
+        { "icon": "check", "label": "Post-Launch Support" },
+        { "icon": "check", "label": "Transparent Pricing" }
+      ]
+    },
+    "stats": [
+      { "icon": "trend", "value": "98", "suffix": "%", "label": "Client Retention Rate", "highlight": false },
+      { "icon": "rocket", "value": "120", "suffix": "+", "label": "Projects Delivered", "highlight": true },
+      { "icon": "star", "value": "4.9/5", "suffix": "", "label": "Average Client Rating", "highlight": false },
+      { "icon": "clock", "value": "0", "suffix": "", "label": "Deadlines Missed", "highlight": false, "accent": true }
+    ],
+    "advantages": {
+      "label": "Our Edge",
+      "titleLead": "Built different.",
+      "titleHighlight": "By design.",
+      "subtitle": "Six principles that set PerPix apart from freelancers and traditional agencies.",
+      "items": [
+        {
+          "icon": "target",
+          "title": "Strategy Before Code",
+          "description": "Every project starts with deep research and strategic planning — so we build the right product, not just a product.",
+          "tags": ["Strategy", "Product"]
+        },
+        {
+          "icon": "gem",
+          "title": "100% Custom Build",
+          "description": "No templates, no shortcuts. Every pixel and line of code is crafted specifically for your business and users.",
+          "tags": ["Custom", "Quality"]
+        },
+        {
+          "icon": "ai",
+          "title": "AI-First Approach",
+          "description": "AI integrated at every stage — from research to delivery — multiplying speed, quality, and precision.",
+          "tags": ["AI", "Automation"]
+        },
+        {
+          "icon": "globe",
+          "title": "Global & RTL Ready",
+          "description": "Built for international markets from day one with full RTL support and localization expertise.",
+          "tags": ["RTL", "i18n"]
+        },
+        {
+          "icon": "shield",
+          "title": "Enterprise Security",
+          "description": "ISO 27001, GDPR, SOC 2 — enterprise-grade security and compliance built into every project.",
+          "tags": ["Security", "Compliance"]
+        },
+        {
+          "icon": "team",
+          "title": "Senior-Only Teams",
+          "description": "Every team member has 8+ years of experience. No juniors learning on your budget — ever.",
+          "tags": ["Senior", "Expertise"],
+          "featured": true
+        }
+      ]
+    },
+    "comparison": {
+      "label": "The Difference",
+      "titleLead": "PerPix vs.",
+      "titleHighlight": "The Rest",
+      "subtitle": "See how we compare to freelancers and traditional agencies across what matters most.",
+      "columns": {
+        "feature": "Feature",
+        "perpix": "PerPix",
+        "freelancers": "Freelancers",
+        "agencies": "Traditional Agencies"
+      },
+      "rows": [
+        { "feature": "Senior-Only Team", "perpix": "check", "freelancers": "x", "agencies": "warning" },
+        { "feature": "Modern Tech Stack", "perpix": "check", "freelancers": "warning", "agencies": "warning" },
+        { "feature": "Average Delivery Time", "perpix": "check", "freelancers": "x", "agencies": "warning" },
+        { "feature": "Long-term Support", "perpix": "check", "freelancers": "x", "agencies": "check" },
+        { "feature": "Transparent Pricing", "perpix": "check", "freelancers": "warning", "agencies": "x" },
+        { "feature": "AI-First Methodology", "perpix": "check", "freelancers": "x", "agencies": "x" },
+        { "feature": "RTL & Localization", "perpix": "check", "freelancers": "warning", "agencies": "warning" },
+        { "feature": "100% Custom Build", "perpix": "check", "freelancers": "warning", "agencies": "x" }
+      ]
+    },
+    "commitments": {
+      "label": "Our Promise",
+      "titleLead": "Our commitments are",
+      "titleHighlight": "non-negotiable",
+      "subtitle": "Three guarantees we make to every client — backed by 120+ projects and a 98% retention rate.",
+      "items": [
+        {
+          "icon": "team",
+          "title": "Senior Experts Only",
+          "description": "You'll never be assigned a junior developer or designer. Every interaction is with someone who's shipped products at scale."
+        },
+        {
+          "icon": "eye",
+          "title": "Full Transparency",
+          "description": "Weekly progress reports, shared dashboards, and open access to every decision — no black boxes, no surprises."
+        },
+        {
+          "icon": "rocket",
+          "title": "Outcome Accountability",
+          "description": "We measure success by your business metrics, not hours billed. If it doesn't work, we fix it."
+        }
+      ],
+      "testimonial": {
+        "quote": "PerPix delivered beyond our expectations. The senior team made all the difference.",
+        "name": "David Müller",
+        "role": "CTO, ScaleUp MENA",
+        "rating": 5
+      }
+    },
+    "thinking": {
+      "label": "Our Philosophy",
+      "titleLead": "How we think about",
+      "titleHighlight": "your product",
+      "subtitle": "Four lenses we apply to every project — ensuring we build products that last and grow.",
+      "items": [
+        {
+          "number": "1",
+          "icon": "circle-nodes",
+          "title": "Systems Thinking",
+          "description": "We design for the whole ecosystem — not just features, but how everything connects and scales."
+        },
+        {
+          "number": "2",
+          "icon": "growth",
+          "title": "Data-Driven Decisions",
+          "description": "Every design and engineering choice is backed by research, analytics, and measurable hypotheses."
+        },
+        {
+          "number": "3",
+          "icon": "code-branch",
+          "title": "Iterative Delivery",
+          "description": "Two-week sprints with regular demos — you see progress constantly and can steer in real time."
+        },
+        {
+          "number": "4",
+          "icon": "gem",
+          "title": "Craft Excellence",
+          "description": "We don't ship good enough. Every product we build is something we'd be proud to put our name on."
+        }
+      ]
+    },
+    "cta": {
+      "titleLead": "Choose a partner who engineers your",
+      "titleHighlight": "outcomes",
+      "subtitle": "First step is just one conversation. No commitment, no sales pitch — just honest discussion about your project.",
+      "primaryCta": "Start a Project",
+      "secondaryCta": "View Case Studies",
+      "stats": [
+        { "value": "98", "suffix": "%", "label": "Client Retention" },
+        { "value": "120", "suffix": "+", "label": "Projects Delivered" },
+        { "value": "4.9/5", "suffix": "", "label": "Average Rating" },
+        { "value": "0", "suffix": "", "label": "Deadlines Missed" }
+      ]
+    }
+  },
+  "ourTeamPage": {
+    "metadata": {
+      "title": "Our Team",
+      "description": "Meet the senior experts behind PerPix — embedded partners with 8+ years of experience who lead every engagement personally."
+    },
+    "hero": {
+      "badge": "Our Team",
+      "titleLead": "Senior Experts.",
+      "titleHighlight": "Embedded Partners.",
+      "subtitle": "Not account managers or junior handoffs — the principals who lead every engagement work directly with you, embedded in your tools, meetings, and goals.",
+      "primaryCta": "Meet the Team",
+      "secondaryCta": "Get Started",
+      "trust": [
+        { "icon": "check", "label": "10+ Years Experience" },
+        { "icon": "check", "label": "No Long-term Contracts" },
+        { "icon": "check", "label": "Transparent Pricing" },
+        { "icon": "check", "label": "Money-back Guarantee" }
+      ]
+    },
+    "team": {
+      "filters": [
+        { "key": "all", "label": "All" },
+        { "key": "leadership", "label": "Leadership" },
+        { "key": "strategy", "label": "Strategy" },
+        { "key": "product", "label": "Product" },
+        { "key": "design", "label": "Design" },
+        { "key": "engineering", "label": "Engineering" }
+      ],
+      "label": "The Team",
+      "titleLead": "The People Behind",
+      "titleHighlight": "Your Success",
+      "subtitle": "The principals who lead every engagement — not account managers, but dedicated partners.",
+      "viewProfile": "View profile",
+      "members": [
+        {
+          "name": "Mara Kheen",
+          "role": "Chief Strategy Officer",
+          "tag": "Founder",
+          "category": "leadership",
+          "bio": "12+ years leading product strategy for FinTech and SaaS companies across MENA and Europe.",
+          "skills": ["Strategy", "GTM", "Enterprise Sales"]
+        },
+        {
+          "name": "James Okonkwo",
+          "role": "Head of Engineering",
+          "tag": "Partner",
+          "category": "engineering",
+          "bio": "Former staff engineer at scale-ups. Specializes in React, Node.js, and cloud architecture.",
+          "skills": ["React", "Node.js", "AWS"]
+        },
+        {
+          "name": "Sarah Chen",
+          "role": "Lead Product Designer",
+          "tag": "Design",
+          "category": "design",
+          "bio": "Award-winning UI/UX designer with expertise in design systems and accessibility.",
+          "skills": ["UI/UX", "Design Systems", "Figma"]
+        },
+        {
+          "name": "Elena Rodriguez",
+          "role": "AI/ML Lead",
+          "tag": "Engineering",
+          "category": "engineering",
+          "bio": "PhD in ML with 10 years building AI pipelines for enterprise and consumer products.",
+          "skills": ["LLM", "Python", "MLOps"]
+        },
+        {
+          "name": "Marcus Webb",
+          "role": "Senior Product Manager",
+          "tag": "Product",
+          "category": "product",
+          "bio": "Shipped 30+ products from zero to launch. Expert in B2B SaaS and marketplace dynamics.",
+          "skills": ["Product", "B2B", "Agile"]
+        },
+        {
+          "name": "Lisa Park",
+          "role": "Growth Strategist",
+          "tag": "Strategy",
+          "category": "strategy",
+          "bio": "Data-driven growth leader who helped clients achieve 3x user growth within 12 months.",
+          "skills": ["Growth", "Analytics", "CRO"]
+        }
+      ]
+    },
+    "difference": {
+      "label": "Why Us",
+      "titleLead": "The Embedded Partner",
+      "titleHighlight": "Difference",
+      "subtitle": "We don't operate like a traditional agency. We embed directly into your team and align our success with yours.",
+      "items": [
+        {
+          "icon": "team",
+          "title": "Embedded in Your Team",
+          "description": "We join your Slack, standups, and tools — functioning as an extension of your team, not an external vendor."
+        },
+        {
+          "icon": "target",
+          "title": "Outcome-Aligned Incentives",
+          "description": "We structure engagements around deliverables and business outcomes, not billable hours."
+        },
+        {
+          "icon": "gem",
+          "title": "Senior-Level Expertise",
+          "description": "Every interaction is with a principal who has 8+ years of hands-on experience shipping products."
+        },
+        {
+          "icon": "shield",
+          "title": "30-Day Risk-Free Guarantee",
+          "description": "Every engagement starts with a trial period. If it's not the right fit, you walk away — no questions asked."
+        }
+      ],
+      "cta": "Request a Proposal",
+      "stats": [
+        { "icon": "trend", "value": "87", "suffix": "%", "label": "Client Retention Rate", "highlight": false },
+        { "icon": "star", "value": "4.9/5", "suffix": "", "label": "Avg. Client Rating", "highlight": true },
+        { "icon": "clock", "value": "48", "suffix": "h", "label": "Initial Team Onboarding", "highlight": false },
+        { "icon": "medal", "value": "6", "suffix": "+", "label": "Years Avg. Engagement", "highlight": false }
+      ]
+    },
+    "standards": {
+      "label": "Our Process",
+      "titleLead": "Every Engagement,",
+      "titleHighlight": "Same Standard",
+      "subtitle": "Four phases that ensure consistent quality and transparency — regardless of project size or scope.",
+      "items": [
+        {
+          "number": "1",
+          "icon": "search",
+          "title": "Deep Discovery",
+          "description": "We immerse in your business, users, and goals before writing a single line of code."
+        },
+        {
+          "number": "2",
+          "icon": "target",
+          "title": "Strategic Planning",
+          "description": "A detailed roadmap with milestones, KPIs, and risk mitigation — agreed before we start."
+        },
+        {
+          "number": "3",
+          "icon": "code",
+          "title": "Agile Execution",
+          "description": "Two-week sprints with demos, feedback loops, and continuous course correction."
+        },
+        {
+          "number": "4",
+          "icon": "rocket",
+          "title": "Launch & Beyond",
+          "description": "Deployment, monitoring, and 30-day post-launch support — plus ongoing optimization."
+        }
+      ]
+    },
+    "cta": {
+      "titleLead": "Meet the team behind your next",
+      "titleHighlight": "breakthrough",
+      "subtitle": "Schedule a free call with our principals — no sales pitch, just an honest conversation about your project.",
+      "primaryCta": "Schedule a Free Call",
+      "secondaryCta": "View Case Studies",
+      "stats": [
+        { "value": "18", "suffix": "+", "label": "Industry Specialties" },
+        { "value": "9", "suffix": "", "label": "Avg. Years Experience" },
+        { "value": "48", "suffix": "hr", "label": "Team Deployment" },
+        { "value": "100", "suffix": "%", "label": "Client Satisfaction" }
+      ]
+    }
+  },
+  "contactPage": {
+    "metadata": {
+      "title": "Contact Us",
+      "description": "Start your project inquiry with PerPix. Free consultation, 24-hour response, and no commitment required."
+    },
+    "hero": {
+      "badge": "Accepting New Projects",
+      "badgeNote": "Limited spots available",
+      "titleLead": "Let's Build Something",
+      "titleHighlight": "Remarkable Together",
+      "subtitle": "Tell us about your project in under 2 minutes. Our team reviews every inquiry and responds within 24 hours — no gatekeeping, no sales scripts.",
+      "trust": [
+        { "icon": "check", "label": "Free Consultation" },
+        { "icon": "check", "label": "24hr Response" },
+        { "icon": "check", "label": "No Commitment Required" }
+      ]
+    },
+    "form": {
+      "label": "Project Inquiry",
+      "title": "Start Your Project Inquiry",
+      "subtitle": "Fill out the form below — it only takes 2 minutes.",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Work Email",
+      "company": "Company Name",
+      "budget": "Budget Range",
+      "budgetOptions": ["$10k – $25k", "$25k – $50k", "$50k – $100k", "$100k+"],
+      "projectType": "What type of project?",
+      "projectTypes": ["Web Design", "Mobile App", "Branding", "SaaS Product", "E-commerce", "Other"],
+      "message": "Tell us about your project",
+      "submit": "Send My Project Inquiry",
+      "privacy": "By submitting, you agree to our Privacy Policy. We never spam.",
+      "required": "*"
+    },
+    "sidebar": {
+      "consultation": {
+        "title": "Request a Free Consultation",
+        "description": "Skip the form. Book a 30-minute strategy call directly with our senior team — no middlemen, no sales pitch.",
+        "cta": "Schedule a Free Call",
+        "note": "30 min · No commitment · Instant confirmation"
+      },
+      "directLabel": "Reach Us Directly",
+      "followUs": "Follow us",
+      "trustLabel": "Why Teams Choose Us",
+      "trust": [
+        { "icon": "shield", "label": "NDA signing before project kickoff" },
+        { "icon": "star", "label": "4.9/5 average client satisfaction" },
+        { "icon": "rocket", "label": "Projects delivered on time, 97% record" },
+        { "icon": "handshake", "label": "170+ successful partnerships worldwide" }
+      ]
+    },
+    "cta": {
+      "badge": "Ready to Build?",
+      "titleLead": "Prefer to talk first? We're",
+      "titleHighlight": "ready to listen.",
+      "subtitle": "Every PerPix engagement starts with a candid conversation. No pressure, no pitch deck — just an honest discussion about your goals.",
+      "primaryCta": "Start a Project",
+      "secondaryCta": "View Case Studies",
+      "stats": [
+        { "value": "98", "suffix": "%", "label": "Client Retention Rate" },
+        { "value": "120", "suffix": "+", "label": "Projects Delivered" },
+        { "value": "4.9", "suffix": "★", "label": "Average Client Rating" },
+        { "value": "0", "suffix": "", "label": "IP Breaches — Ever" }
+      ]
+    }
   },
   "footer": {
     "brandSuffix": "Pix",
